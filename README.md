@@ -1,29 +1,11 @@
 ## Welcome to My Pages
     这里是刷leetcode的笔记
 
-### Markdown
+### 例子
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[子集二](https://github.com/wgq1995/leetcode/blob/master/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/90.%20%E5%AD%90%E9%9B%86%20II.md)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
