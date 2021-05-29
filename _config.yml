@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+title: leetcode笔记
+lang: en
+description: ..
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
